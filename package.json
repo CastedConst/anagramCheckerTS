@@ -1,0 +1,16 @@
+{
+  "name": "anagramchecker",
+  "version": "1.0.0",
+  "description": "Command line programm to check whether two words are an anagram",
+  "main": "./dist/main.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node ./dist/main.js"
+  },
+  "author": "Thorsten Schneider",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.9.0",
+    "jest": "^29.7.0"
+  }
+}
